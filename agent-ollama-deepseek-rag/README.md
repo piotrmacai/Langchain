@@ -1,7 +1,6 @@
-#Local RAG Chatbot with Ollama DeepSeek
+# Local RAG Chatbot with Ollama DeepSeek
 
-A local RAG (Retrieval-Augmented Generation) chatbot implementation using Ollama's DeepSeek model, Streamlit, and LangChain. 
-This application allows users to upload PDF documents and ask questions about their content, with answers generated using the local DeepSeek model.
+A local RAG (Retrieval-Augmented Generation) chatbot implementation using Ollama's DeepSeek model, Streamlit, and LangChain. This application allows users to upload PDF documents and ask questions about their content, with answers generated using the local DeepSeek model.
 
 ![Workflow Overview](img/deepkseeklocalrag.png)
 
@@ -70,4 +69,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 If you encounter any issues or have questions, please open an issue in the GitHub repository.
-
